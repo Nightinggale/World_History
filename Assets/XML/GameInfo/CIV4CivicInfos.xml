@@ -944,16 +944,16 @@
         			</RequiredYield>       
       			</RequiredYields>
 			<iCostToResearch>6</iCostToResearch>
-			<AllowsYields>
-				<AllowsYield>
-					<YieldType>YIELD_LUMBER</YieldType>
-					<iChange>1</iChange>
-				</AllowsYield>
-			</AllowsYields>
+			<AllowsYields/>
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
 			<AllowsPromotions/>
-			<AllowsProfessions/>
+				<AllowsProfessions>
+				<AllowsProfession>
+					<ProfessionType>PROFESSION_LUMBERJACK</ProfessionType>
+					<iChange>1</iChange>
+				</AllowsProfession>
+			</AllowsProfessions>
 			<AllowsTrait/>
 			<AllowsBuildTypes/>
 			<AllowsBuildTypesTerrain/>
