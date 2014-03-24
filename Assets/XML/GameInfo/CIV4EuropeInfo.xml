@@ -201,7 +201,7 @@
 					<Domain>DOMAIN_LAND</Domain>
 					<bValue>1</bValue>
 				</DomainType>
-				</DomainTypes>
+			</DomainTypes>
 			<PythonTradeScreen>showEuroZoneScreen</PythonTradeScreen>
 			<Button>Art/Interface/Game Hud/Actions/TraveltoFair.dds</Button>
 		</EuropeInfo>

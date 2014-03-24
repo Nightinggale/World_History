@@ -5973,7 +5973,7 @@
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
 		</BuildingInfo>
-				<BuildingInfo>
+		<BuildingInfo>
 			<Type>BUILDING_CARPENTER1_SHOP</Type>
 			<BuildingClass>BUILDINGCLASS_CARPENTER1_SHOP</BuildingClass>
 			<SpecialBuildingType>SPECIALBUILDING_WOODEN_GOODS</SpecialBuildingType>

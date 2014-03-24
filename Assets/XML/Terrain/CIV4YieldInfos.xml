@@ -3090,7 +3090,8 @@
 					<iPricePercent>-1</iPricePercent>
 				</TradeScreenType>
 			</TradeScreenTypes>
-		</YieldInfo><YieldInfo>
+		</YieldInfo>
+		<YieldInfo>
 			<Type>YIELD_APPLIANCES</Type>
 			<Description>TXT_KEY_YIELD_APPLIANCES</Description>
 			<Civilopedia>TXT_KEY_YIELD_APPLIANCES_PEDIA</Civilopedia>
@@ -3872,7 +3873,7 @@
 			<HighlightIcon>,Art/Interface/Screens/City_Management/Colonization_Yield_Highlight_Icon_Atlas.dds.dds,1,16</HighlightIcon>
 			<Button>,Art/Interface/Buttons/Unit_Resource_Colonization_Atlas.dds,1,16</Button>
 		</YieldInfo>
-				<YieldInfo>
+		<YieldInfo>
 			<Type>YIELD_TRADE_GOODS</Type>
 			<Description>Remove Trade Goods</Description>
 			<Civilopedia>TXT_KEY_YIELD_HAMMERS_PEDIA</Civilopedia>
