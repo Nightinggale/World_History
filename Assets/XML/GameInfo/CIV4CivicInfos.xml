@@ -2223,6 +2223,10 @@
 					<YieldType>YIELD_GRAPES</YieldType>
 					<iChange>1</iChange>
 				</AllowsYield>
+				<AllowsYield>
+					<YieldType>YIELD_HERBS</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>
 		<!-- Future YIELD_HERBS [Trade Winds] -->
 			</AllowsYields>
 			<AllowsBuildingTypes/>
@@ -4965,7 +4969,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_BARLEY</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>
+			</AllowsYields>
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
 			<AllowsPromotions/>
@@ -5356,7 +5365,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>100</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_STEEL</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>
+			</AllowsYields>
 			<AllowsBuildingTypes>
 				<AllowsBuildingType>
 					<BuildingType>BUILDINGCLASS_WATERWHEEL</BuildingType>
@@ -5447,6 +5461,10 @@
 			<AllowsYields>
 				<AllowsYield>
 					<YieldType>YIELD_PLATE_ARMOR</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>
+				<AllowsYield>
+					<YieldType>YIELD_STEEL_WEAPONS</YieldType>
 					<iChange>1</iChange>
 				</AllowsYield>
 			</AllowsYields>
@@ -6013,7 +6031,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>40</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_COAL</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>
+			</AllowsYields>
 			<AllowsBuildingTypes>
 				<AllowsBuildingType>
 					<BuildingType>BUILDINGCLASS_IRONWORKS</BuildingType>
@@ -10264,7 +10287,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_SILK</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
 			<AllowsPromotions/>
@@ -10338,6 +10366,10 @@
 			<AllowsYields>
 				<AllowsYield>
 					<YieldType>YIELD_DYE</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>
+					<AllowsYield>
+					<YieldType>YIELD_SILK_WORM</YieldType>
 					<iChange>1</iChange>
 				</AllowsYield>				
 			</AllowsYields>
