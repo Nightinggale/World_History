@@ -763,6 +763,10 @@
 			<iCostToResearch>10</iCostToResearch>
 			<AllowsYields>
 				<AllowsYield>
+					<YieldType>YIELD_CATTLE</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>
+				<AllowsYield>
 					<YieldType>YIELD_HIDES</YieldType>
 					<iChange>1</iChange>
 				</AllowsYield>
@@ -944,7 +948,7 @@
 			<RequiredInvention>MEDIEVAL_TECH_FIRE</RequiredInvention>
 			<RequiredInvention2/>
 			<RequiredInventionOr/>
-			<RequiredUnitType>UNITCLASS_LUMBERJACK</RequiredUnitType>
+			<RequiredUnitType>NONE</RequiredUnitType>
 			<RequiredYields>
 				<RequiredYield>
 					<RequiredYieldType>YIELD_FOOD</RequiredYieldType>
@@ -1198,7 +1202,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_HORSES</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
 		<!-- Future UNITCLASS_OX [Trade Winds] -->
@@ -1275,7 +1284,12 @@
 				</RequiredYield>       
 			</RequiredYields>
 			<iCostToResearch>6</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_STONE</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses>
 				<AllowsUnitClass>
@@ -1357,7 +1371,16 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_STONE_TOOLS</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>	
+				<AllowsYield>
+					<YieldType>YIELD_CLAY</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 		<!-- Future YIELD_STONE_TOOL [Trade Winds] -->
 			<AllowsBuildingTypes>
 				<AllowsBuildingType>
@@ -1675,7 +1698,7 @@
 			<iCostToResearch>10</iCostToResearch>
 			<AllowsYields>
 				<AllowsYield>
-					<YieldType>YIELD_STONE</YieldType>
+					<YieldType>YIELD_STONE_WEAPONS</YieldType>
 					<iChange>1</iChange>
 				</AllowsYield>
 		<!-- Future YIELD_STONE_WEAPONS [Trade Winds] -->
@@ -1940,12 +1963,17 @@
 			<RequiredYields>
 				<RequiredYield>
 					<RequiredYieldType>YIELD_STONE</RequiredYieldType>
-					<iYieldCost>100</iYieldCost>
+					<iYieldCost>20</iYieldCost>
 				</RequiredYield>
 		<!-- Also requires YIELD_CLAY [Trade Winds] -->       
 			</RequiredYields>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_POTTERY</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 		<!-- Future YIELD_POTTERY [Trade Winds] --> 
 			<AllowsBuildingTypes/>
 		<!-- Implement BUILDINGCLASS_POTTERS_HUT [Trade Winds] -->
@@ -2285,7 +2313,16 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_TIN</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+				<AllowsYield>
+					<YieldType>YIELD_COPPER</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 		<!-- Future YIELD_TIN [Trade Winds] -->
 		<!-- Future YIELD_COPPER [Trade Winds] -->
 			<AllowsBuildingTypes/>
@@ -2530,7 +2567,12 @@
         	<!-- Required Future YIELD_TIN [Trade Winds] -->
 		<!-- Required Future YIELD_COPPER [Trade Winds] -->
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_BRONZE</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 		<!-- Required Future YIELD_BRONZE [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
@@ -2607,7 +2649,12 @@
 				</RequiredYield>       
 			</RequiredYields>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_WOODEN_GOODS</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 		<!-- Future YIELD_WOODEN_GOODS [Trade Winds] -->
 			<AllowsBuildingTypes/>
 		<!-- Implement BUILDINGCLASS_CARPENTER_HOUSE (Should really be given when founding cities?) [Trade Winds] -->			
@@ -2682,7 +2729,12 @@
         	<!-- Required Future YIELD_TIN [Trade Winds] -->
 		<!-- Required Future YIELD_COPPER [Trade Winds] -->
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_BRONZE_ARMOR</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 		<!-- Future BUILDINGCLASS_BRONZE_ARMOUR_HUT [Trade Winds]-->
 			<AllowsBuildingTypes/>
 		<!-- Implement WINE_MAKER_HOUSE (Should really be given when founding cities?) [Trade Winds] -->
@@ -2841,7 +2893,12 @@
 			<RequiredYields/>
         	<!-- Future YIELD_BRONZE [Trade Winds]-->
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_BRONZE_WEAPONS</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 		<!-- Future YIELD_BRONZE_WEAPONS [Trade Winds]-->
 			<AllowsBuildingTypes/>
 		<!-- Implement BUILDINGCLASS_WEAPON_SMITH_HUT (There is a previous Stone Weapon Smith) [Trade Winds] -->
@@ -2923,7 +2980,12 @@
 				</RequiredYield>       
 			</RequiredYields>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>				
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_PRECIOUS_METALS</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>				
 		<!-- Future YIELD_PRECIOUS_METALS [Trade Winds]-->
 			<AllowsBuildingTypes/>
 		<!-- Implement BUILDINGCLASS_WINE_MAKER_HOUSE (Should really be given when founding cities?) [Trade Winds] -->
@@ -3159,7 +3221,12 @@
 				</RequiredYield>       
 			</RequiredYields>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_CUT_STONE</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 		<!-- Future YIELD_CUT_STONE [Trade Winds]-->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
@@ -3398,7 +3465,12 @@
 				</RequiredYield>       
 			</RequiredYields>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_IRON</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 		<!-- Future YIELD_IRON [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
@@ -3476,9 +3548,13 @@
 			<iCostToResearch>10</iCostToResearch>
 			<AllowsYields>
 				<AllowsYield>
-					<YieldType>YIELD_TOOLS</YieldType>
+					<YieldType>YIELD_IRON_TOOLS</YieldType>
 					<iChange>1</iChange>
 				</AllowsYield>
+				<AllowsYield>
+					<YieldType>YIELD_TOOLS</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
 			</AllowsYields>
 			<AllowsBuildingTypes>		
 				<AllowsBuildingType>
@@ -3729,9 +3805,13 @@
 			<iCostToResearch>10</iCostToResearch>
 			<AllowsYields>
 				<AllowsYield>
-					<YieldType>YIELD_WEAPONS</YieldType>
+					<YieldType>YIELD_IRON_WEAPONS</YieldType>
 					<iChange>1</iChange>
 				</AllowsYield>
+				<AllowsYield>
+					<YieldType>YIELD_WEAPONS</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
 			</AllowsYields>
 			<AllowsBuildingTypes/>
 		<!-- BUILDINGCLASS_BLACKSMITH_HOUSE [Trade Winds] -->   
@@ -6022,12 +6102,7 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>6</iCostToResearch>
-			<AllowsYields>
-				<AllowsYield>
-					<YieldType>YIELD_SCALE_ARMOR</YieldType>
-					<iChange>1</iChange>
-				</AllowsYield>
-			</AllowsYields>
+			<AllowsYields/>
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses>
 				<AllowsUnitClass>
@@ -7092,9 +7167,13 @@
 			<iCostToResearch>6</iCostToResearch>
 			<AllowsYields>
 				<AllowsYield>
-					<YieldType>YIELD_GRAIN</YieldType>
+					<YieldType>YIELD_RICH_FOOD</YieldType>
 					<iChange>1</iChange>
 				</AllowsYield>
+				<AllowsYield>
+					<YieldType>YIELD_SPICES</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
 			</AllowsYields>
 			<AllowsBuildingTypes>
 				<AllowsBuildingType>
@@ -7922,7 +8001,7 @@
 			<ConvertsUnitsTo/>
 			<NewDefaultUnitClass/>
 			<DisallowsTech/>
-			<ConvertsResearchYield>YIELD_CULTURE</ConvertsResearchYield>
+			<ConvertsResearchYield/>
 			<RouteMovementMod/>
 			<bStartConstitution>0</bStartConstitution>
 			<bAllowsMapTrade>0</bAllowsMapTrade>
@@ -7985,7 +8064,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>60</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_ALE</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<AllowsBuildingTypes>
 				<AllowsBuildingType>
 					<BuildingType>BUILDINGCLASS_RUM_FACTORY</BuildingType>
@@ -10251,7 +10335,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_DYE</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_DYE [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
@@ -10835,7 +10924,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_SUGAR</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_SUGAR [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
@@ -10988,7 +11082,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_RUM</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_RUM [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<!-- Implement future BUILDINGCLASS_RUM_DISTILLER'S_HOUSE [Trade Winds] -->
@@ -11063,7 +11162,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_JEWELLERY</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_JEWELLERY [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<!-- Implement future BUILDINGCLASS_JEWELLER'S_HOUSE [Trade Winds] -->
@@ -11217,7 +11321,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_HOUSEHOLD_GOODS</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_HOUSEHOLD_GOODS [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
@@ -11289,7 +11398,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_STEAM_ENGINES</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_STEAM_ENGINES [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
@@ -11581,7 +11695,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_OIL</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_OIL [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
@@ -11653,7 +11772,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_PLASTIC</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_PLASTICS [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
@@ -11871,7 +11995,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_ELECTRONICS</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_ELECTRONICS [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
@@ -12016,7 +12145,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_ENGINE_PARTS</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_ENGINE_PARTS [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
@@ -12088,7 +12222,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_CARS</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_CARS [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
@@ -12381,7 +12520,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_COMPUTERS</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_COMPUTERS [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
@@ -12672,7 +12816,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_MODERN_CARS</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_MODERN_CAR [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
@@ -12888,7 +13037,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_GEMS</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_GEMS [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
@@ -13036,7 +13190,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_FINE_CLOTH</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_FINE_CLOTH [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<!-- Implement future BUILDINGCLASS_DYEING_HOUSE [Trade Winds] -->
@@ -13334,7 +13493,12 @@
 		<!-- Implement future YIELD_STEEL [Trade Winds] -->
 		<!-- Implement future YIELD_IRON_TOOLS [Trade Winds] -->
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_ARTILLERY_PARTS</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_ARTILLERY_PARTS [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
@@ -13408,7 +13572,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_CERAMICS</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_CERAMICS [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
@@ -13480,7 +13649,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_RUBBER</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_RUBBER [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
@@ -13552,7 +13726,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_SILICON</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_SILICON [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
@@ -13624,7 +13803,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_FUEL</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_FUEL [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
@@ -13842,7 +14026,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_ALUMINIUM</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_ALUMINIUM [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
@@ -13914,7 +14103,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_POWER_TOOLS</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_POWER_TOOLS [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
@@ -13988,7 +14182,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_APPLIANCES</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_APPLIANCES [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
@@ -14060,7 +14259,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_AERIAL_PARTS</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_AERIAL_PARTS [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
@@ -14718,14 +14922,16 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
-			<!-- Implement future YIELD_IVORY [Trade Winds] -->
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_MUSKETS</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
-			<!-- Implement future UNITCLASS_ELEPHANT_HUNTER [Trade Winds] -->
 			<AllowsPromotions/>
 			<AllowsProfessions/>
-			<!-- Implement future PROFESSION_ELEPHANT_HUNTER [Trade Winds] -->
 			<AllowsTrait/>
 			<AllowsBuildTypes/>
 			<AllowsBuildTypesTerrain/>
@@ -14865,7 +15071,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_JADE</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_JADE [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
@@ -14939,7 +15150,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_IVORY</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_IVORY [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
@@ -15087,7 +15303,12 @@
 			<RequiredYields/>
 		<!-- Implement future YIELD_JADE [Trade Winds] -->
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_JADE_CARVING</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_CARVED_JADE [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<!-- Implement future BUILDINGCLASS_JADE_CARVER'S_HOUSE [Trade Winds] -->
@@ -15163,7 +15384,12 @@
 			<RequiredYields/>
 		<!-- Implement future YIELD_IVORY [Trade Winds] -->
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_CARVED_IVORY</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_CARVED_IVORY [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<!-- Implement future BUILDINGCLASS_IVORY_CARVER'S_HOUSE [Trade Winds] -->
@@ -15318,7 +15544,12 @@
 		<!-- Implement future YIELD_MUSKETS [Trade Winds] -->
 		<!-- Implement future YIELD_IRON_TOOLS [Trade Winds] -->
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_RIFLES</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 		<!-- Implement future YIELD_RIFLES [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
@@ -15464,7 +15695,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_TAILORED_CLOTHING</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_TAILORED_CLOTHING [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
@@ -15609,7 +15845,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_TINNED_FOOD</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_TINNED_FOOD [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
@@ -16190,7 +16431,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_AUTOMATIC_WEAPONS</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_AUTOMATIC_WEAPONS [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
@@ -16410,7 +16656,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_ARMOR</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_ARMOR [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
@@ -16484,7 +16735,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_ROCKETS</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_ROCKETS [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
@@ -16704,7 +16960,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_GUIDED_MISSILES</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_GUIDED_MISSILES [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
@@ -16849,7 +17110,12 @@
 			<RequiredUnitType/>
 			<RequiredYields/>
 			<iCostToResearch>10</iCostToResearch>
-			<AllowsYields/>
+			<AllowsYields>
+				<AllowsYield>
+					<YieldType>YIELD_MODERN_ARMOR</YieldType>
+					<iChange>1</iChange>
+				</AllowsYield>				
+			</AllowsYields>
 			<!-- Implement future YIELD_MODERN_ARMOUR [Trade Winds] -->
 			<AllowsBuildingTypes/>
 			<AllowsUnitClasses/>
