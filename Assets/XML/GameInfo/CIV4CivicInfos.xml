@@ -7,7 +7,7 @@
 	<!-- Civic Infos -->
 	<CivicInfos>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>NATIVE_TECH</Type>
 			<Description>Native</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -109,7 +109,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH</Type>
 			<Description>Medieval Tech</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -209,7 +209,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TRADE_TECH</Type>
 			<Description>Medieval Trade Tech</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -309,7 +309,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_CENSURE</Type>
 			<Description>Censures</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -410,7 +410,7 @@
 		</CivicInfo>
 <!-- Lib.spi't tech tree starts here [Trade Winds]-->
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_FARMING</Type>
 			<Description>Farming</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -493,7 +493,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_SHEPHERDING</Type>
 			<Description>Shepherding</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -575,7 +575,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_FIRE</Type>
 			<Description>Fire</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -646,7 +646,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_DANGER</Type>
 			<Description>Danger</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -721,7 +721,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_BUTCHERY</Type>
 			<Description>Butchery</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -819,7 +819,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_DOMESTICATION</Type>
 			<Description>Domestication</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -911,7 +911,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_WOOD_GATHERING</Type>
 			<Description>Wood Gathering</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -991,7 +991,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_HUNTING</Type>
 			<Description>Hunting</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -1063,7 +1063,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_CRUDE_CLOTHING</Type>
 			<Description>Crude Clothing</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -1151,7 +1151,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_ANIMAL_LABOUR</Type>
 			<Description>Animal Labour</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -1239,7 +1239,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_STONE_GATHERING</Type>
 			<Description>Stone Gathering</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -1329,7 +1329,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_STONE_TOOL_MAKING</Type>
 			<Description>Stone Tool Making</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -1418,7 +1418,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_LEATHER_ARMOUR_MAKING</Type>
 			<Description>Leather Armour Making</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -1504,7 +1504,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_RIDING</Type>
 			<Description>Riding</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -1584,7 +1584,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_RAFT_BUILDING</Type>
 			<Description>Raft Building</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -1656,7 +1656,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_STONE_WEAPON_MAKING</Type>
 			<Description>Stone Weapon Making</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -1748,7 +1748,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_WEAVING</Type>
 			<Description>Weaving</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -1839,7 +1839,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_ARCHERY</Type>
 			<Description>Archery</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -1922,7 +1922,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_KILNS</Type>
 			<Description>Kilns</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -2006,7 +2006,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_PIT_MINING</Type>
 			<Description>Pit Mining</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -2094,7 +2094,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_EARLY_CLASSICAL_SHIP_BUILDING</Type>
 			<Description>Early Classical Ship Building</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -2174,7 +2174,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_CULTIVATION</Type>
 			<Description>Cultivation</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -2277,7 +2277,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_EARLY_SMELTING</Type>
 			<Description>Early Smelting</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -2360,7 +2360,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_CLASSICAL_CONSTRUCTION</Type>
 			<Description>Classical Construction</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -2439,7 +2439,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_WINE_MAKING</Type>
 			<Description>Wine Making</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -2529,7 +2529,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_BRONZE_SMELTING</Type>
 			<Description>Bronze Smelting</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -2608,7 +2608,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_CARPENTRY</Type>
 			<Description>Carpentry</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -2691,7 +2691,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_BRONZE_ARMOUR_MAKING</Type>
 			<Description>Bronze Armour Making</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -2780,7 +2780,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_OX_COLLAR</Type>
 			<Description>Ox Collar</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -2856,7 +2856,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_BRONZE_WEAPON_MAKING</Type>
 			<Description>Bronze Weapon Making</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -2933,7 +2933,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_SHAFT_MINING</Type>
 			<Description>Shaft Mining</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -3027,7 +3027,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_BRONZE_AGE_CAVALRY</Type>
 			<Description>Bronze Age Cavalry</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -3097,7 +3097,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_PATRICIAN_NOBILITY</Type>
 			<Description>Patrician Nobility</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -3180,7 +3180,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_STONE_MASONRY</Type>
 			<Description>Stone Masonry</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -3262,7 +3262,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_LATE_CLASSICAL_SHIP_BUILDING</Type>
 			<Description>Late Classical Ship Building</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -3349,7 +3349,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_PACK_MULES</Type>
 			<Description>Pack Mules</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -3424,7 +3424,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_EARLY_IRON_SMELTING</Type>
 			<Description>Early Iron Smelting</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -3504,7 +3504,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_IRON_TOOL_MAKING</Type>
 			<Description>Iron Tool Making</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -3593,7 +3593,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_BANDED_IRON_ARMOUR</Type>
 			<Description>Banded Iron Armour</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -3683,7 +3683,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_CLASSICAL_ROAD_BUILDING</Type>
 			<Description>Classical Road Building</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -3761,7 +3761,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_IRON_WEAPON_MAKING</Type>
 			<Description>Iron Weapon Making</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -3846,7 +3846,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_HEAVY_CLASSICAL_SHIP_BUILDING</Type>
 			<Description>Heavy Classical Ship Building</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -3924,7 +3924,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_MILITARY_PRIVILEGE</Type>
 			<Description>Military Privilege</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -4011,7 +4011,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_CLASICAL_SIEGE_CRAFT</Type>
 			<Description>Clasical Siege Craft</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -4083,7 +4083,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_CASUS_BELI</Type>
 			<Description>Casus Beli</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -4154,7 +4154,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_DARK_AGES</Type>
 			<Description>Dark Ages</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -4226,7 +4226,7 @@
 		</CivicInfo>
 <!-- Lib.spi't tech tree ends here [Trade Winds] -->
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_ASTROLOGY</Type>
 			<Description>Astrology</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -4301,7 +4301,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_ASTROLOBE</Type>
 			<Description>Astrolobe</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -4370,7 +4370,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_ALCHEMY</Type>
 			<Description>Alchemy</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -4455,7 +4455,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_ALPHABET</Type>
 			<Description>Alphabet</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -4530,7 +4530,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_BLOCKPRINTING</Type>
 			<Description>Block Printing</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -4609,7 +4609,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_CODE_OF_LAWS</Type>
 			<Description>Code of Laws</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -4694,7 +4694,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_MONASTICISM</Type>
 			<Description>Monasticism</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -4779,7 +4779,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_JURYTRIAL</Type>
 			<Description>Jury Trial</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -4849,7 +4849,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_MATHEMATICS</Type>
 			<Description>Mathematics</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -4929,7 +4929,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_WHEELBARROW</Type>
 			<Description>Wheelbarrow</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -5010,7 +5010,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_CALENDER</Type>
 			<Description>Calender</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -5085,7 +5085,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_PAPER</Type>
 			<Description>Paper</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -5154,7 +5154,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_ROADS</Type>
 			<Description>Stone-Paved Roads</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -5240,7 +5240,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_MACHINERY</Type>
 			<Description>Medieval Mechinery</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -5325,7 +5325,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_ENGINEERING</Type>
 			<Description>Medieval Engineering</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -5418,7 +5418,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_PLATEARMOR</Type>
 			<Description>Blast Furnace</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -5517,7 +5517,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_STONEWORK</Type>
 			<Description>Great Stonework</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -5600,7 +5600,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_INVENTION_DIKES</Type>
 			<Description>Dikes</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -5680,7 +5680,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_CROSSBOW</Type>
 			<Description>Mechanical Crank</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -5758,7 +5758,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_SPINNINGWHEEL</Type>
 			<Description>Spinning Wheel</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -5836,7 +5836,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_CLOCK</Type>
 			<Description>Mechanical Clock</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -5905,7 +5905,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_LONGBOW</Type>
 			<Description>Longbow</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -5991,7 +5991,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_MINING</Type>
 			<Description>Medieval Mining</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -6085,7 +6085,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_METALCASTING</Type>
 			<Description>Metal Casting</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -6169,7 +6169,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_WHEELEDPLOW</Type>
 			<Description>Moaldboard Plow</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -6251,7 +6251,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_MOTTEANDBAILEY</Type>
 			<Description>Motte and Bailey</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -6335,7 +6335,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_CONSTRUCTION</Type>
 			<Description>Medieval Construction</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -6414,7 +6414,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_MAILARMOR</Type>
 			<Description>Mail Armor</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -6504,7 +6504,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_CHIVALRY</Type>
 			<Description>Chivalry</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -6583,7 +6583,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_CROPROTATION</Type>
 			<Description>Crop Rotation</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -6674,7 +6674,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_HORSESHOES</Type>
 			<Description>Horseshoes</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -6753,7 +6753,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_HORSEBREADING</Type>
 			<Description>Horse Breading</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -6834,7 +6834,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_HORSECOLLAR</Type>
 			<Description>Horse Collar</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -6903,7 +6903,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_STIRRUP</Type>
 			<Description>Stirrup</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -6981,7 +6981,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_IRONPLOW</Type>
 			<Description>Iron Plow</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -7073,7 +7073,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_COTTON</Type>
 			<Description>Cotton</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -7148,7 +7148,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_MANORIALISM</Type>
 			<Description>Manorialism</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -7246,7 +7246,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_MEDIEVAL_HUNTING</Type>
 			<Description>Medieval Hunting</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -7328,7 +7328,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_MONARCHY</Type>
 			<Description>Monarchy</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -7412,7 +7412,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_FUEDALISM</Type>
 			<Description>Fuedalism</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -7503,7 +7503,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_DIVINERIGHT</Type>
 			<Description>Divine Right</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -7573,7 +7573,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_CIVILSERVICE</Type>
 			<Description>Civil Service</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -7647,7 +7647,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_LITERATURE</Type>
 			<Description>Literature</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -7727,7 +7727,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_THEOLOGY</Type>
 			<Description>Theology</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -7812,7 +7812,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_DRAMA</Type>
 			<Description>Drama</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -7897,7 +7897,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_FLYINGBUTRESS</Type>
 			<Description>Flying Butress</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -7972,7 +7972,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_RENAISSANCE</Type>
 			<Description>Renaissance</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -8042,7 +8042,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_GLASSMAKING</Type>
 			<Description>Glass Making</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -8127,7 +8127,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_COMPASS</Type>
 			<Description>Compass</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -8205,7 +8205,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_LATLONG</Type>
 			<Description>Latitude and Longitude</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -8288,7 +8288,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_RUDDER</Type>
 			<Description>Sternpost Rudder</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -8357,7 +8357,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_GREATGALLEY</Type>
 			<Description>Great Galley</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -8774,7 +8774,7 @@
 			<ImmigrationConversion>NONE</ImmigrationConversion>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>TRADING_TRADEPOST</Type>
 			<Description>Trading Post</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -8858,7 +8858,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>TRADING_PERK1</Type>
 			<Description>Trading Perk I</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -8935,7 +8935,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>TRADING_PERK2</Type>
 			<Description>Trading Perk II</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -9012,7 +9012,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>TRADING_MARKET</Type>
 			<Description>Marketplace</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -9103,7 +9103,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>TRADING_TRADE_ROUTE_2</Type>
 			<Description>Spice Route</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -9183,7 +9183,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>TRADING_CURRENCY</Type>
 			<Description>Currency</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -9269,7 +9269,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>TRADING_PERK3</Type>
 			<Description>Trading Perk III</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -9346,7 +9346,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>TRADING_PERK4</Type>
 			<Description>Trading Perk IV</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -9424,7 +9424,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>TRADING_TRADE_ROUTE_1</Type>
 			<Description>Great Silk Road</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -9504,7 +9504,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>TRADING_FAIR</Type>
 			<Description>The Fair</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -9588,7 +9588,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>TRADING_GUILDS</Type>
 			<Description>Guilds</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -9675,7 +9675,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>BANKING</Type>
 			<Description>Banking</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -9756,7 +9756,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>TRADING_COMMUNE</Type>
 			<Description>Commune</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -9833,7 +9833,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>TRADING_PERK5</Type>
 			<Description>Trading Perk V</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -9910,7 +9910,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>TRADING_PERK6</Type>
 			<Description>Trading Perk VI</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -9987,7 +9987,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>TRADING_LEAGUE</Type>
 			<Description>Trading League</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -10065,7 +10065,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>CENSURE_EXCOMMUNICATION</Type>
 			<Description>Excommunication</Description>
 			<Civilopedia>????</Civilopedia>
@@ -10108,7 +10108,7 @@
 			<bNoGoodyTech>1</bNoGoodyTech>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>CENSURE_INTERDICT</Type>
 			<Description>Interdict</Description>
 			<Civilopedia>????</Civilopedia>
@@ -10177,7 +10177,7 @@
 			<bNoGoodyTech>1</bNoGoodyTech>
 		</CivicInfo>
 		<CivicInfo>
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>CENSURE_ANATHEMA</Type>
 			<Description>Anathema</Description>
 			<Civilopedia>????</Civilopedia>
@@ -10247,7 +10247,7 @@
 		</CivicInfo>
 <!-- Lib.spi't tech tree restarts here [Trade Winds] -->
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_DIPLOMATIC_MISSION</Type>
 			<Description>Diplomatic Mission</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -10323,7 +10323,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_EXOTIC_COLOURS</Type>
 			<Description>Exotic Colours</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -10406,7 +10406,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_ELECTRIC_LOCOMOTIVES</Type>
 			<Description>Electric Locomotives</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -10480,7 +10480,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_DIESEL_LOCOMOTIVES</Type>
 			<Description>Diesel Locomotives</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -10553,7 +10553,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_LIGHT_BOMBER</Type>
 			<Description>Light Bomber</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -10626,7 +10626,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_HEAVY_BOMBER</Type>
 			<Description>Heavy Bomber</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -10699,7 +10699,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_STRATEGIC_BOMBERS</Type>
 			<Description>Strategic Bombers</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -10772,7 +10772,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_UTILITY_HELICOPTERS</Type>
 			<Description>Utility Helicopters</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -10845,7 +10845,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_OX_POWERED_MACHINES</Type>
 			<Description>Ox Powered Machines</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -10916,7 +10916,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_SUGAR_CANE_CROP</Type>
 			<Description>Sugar Cane Crop</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -10995,7 +10995,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_ADVANCED_WAGON_DESIGN</Type>
 			<Description>Advanced Wagon Design</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -11074,7 +11074,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_RUM_DISTILLATION</Type>
 			<Description>Rum Distillation</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -11154,7 +11154,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_JEWELLERY_MAKING</Type>
 			<Description>Jewellery Making</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -11234,7 +11234,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_WAGON_TRAINS</Type>
 			<Description>Wagon Trains</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -11313,7 +11313,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_HOUSEHOLD_GOODS</Type>
 			<Description>Household Goods</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -11390,7 +11390,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_STEAM_ENGINES</Type>
 			<Description>Steam Engines</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -11467,7 +11467,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_STEAM_ENGINE_APPLICATIONS</Type>
 			<Description>Steam Engine Applications</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -11540,7 +11540,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_RAILWAYS</Type>
 			<Description>Railways</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -11614,7 +11614,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_STEAM_LOCOMOTIVES</Type>
 			<Description>Steam Locomotives</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -11687,7 +11687,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_OIL</Type>
 			<Description>Oil</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -11764,7 +11764,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_PLASTICS</Type>
 			<Description>Plastics</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -11841,7 +11841,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_SELF_PROPELLED_WAGONS</Type>
 			<Description>Self Propelled Wagons</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -11914,7 +11914,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_RAILROAD_ARTILLERY</Type>
 			<Description>Railroad Artillery</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -11987,7 +11987,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_ELECTRONICS</Type>
 			<Description>Electronics</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -12064,7 +12064,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_HIGH_SPEED_STEAM_TRAINS</Type>
 			<Description>High Speed Steam Trains</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -12137,7 +12137,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_ENGINE_PARTS</Type>
 			<Description>Engine Parts</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -12214,7 +12214,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_UTILITY_VEHICLES</Type>
 			<Description>Utility Vehicles</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -12293,7 +12293,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_AIR_TRANSPORTATION</Type>
 			<Description>Air Transportation</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -12366,7 +12366,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_SELF_PROPELLED_ARTILLERY</Type>
 			<Description>Self Propelled Artillery</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -12439,7 +12439,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_HEAVY_AIR_TRANSPORTATION</Type>
 			<Description>Heavy Air Transportation</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -12512,7 +12512,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_COMPUTERS</Type>
 			<Description>Computers</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -12589,7 +12589,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_HELICOPTER_GUNSHIPS</Type>
 			<Description>Helicopter Gunships</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -12662,7 +12662,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_INFANTRY_FIGHTING_VEHICLES</Type>
 			<Description>Infantry Fighting Vehicles</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -12735,7 +12735,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_ADVANCED_GUNSHIPS</Type>
 			<Description>Advanced Gunships</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -12808,7 +12808,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_MODERN_CARS</Type>
 			<Description>Modern Cars</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -12885,7 +12885,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_MODERN_ARMOURED_FIGHTING_VEHICLES</Type>
 			<Description>Modern Armoured Fighting Vehicles</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -12958,7 +12958,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_HEAVY_PIKE</Type>
 			<Description>Heavy Pike</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -13029,7 +13029,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_GEM_MINING</Type>
 			<Description>Gem Mining</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -13108,7 +13108,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_BRONZE_CANNONS</Type>
 			<Description>Bronze Cannons</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -13182,7 +13182,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_CLOTH_DYEING</Type>
 			<Description>Cloth Dyeing</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -13262,7 +13262,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_IRON_CANNONS</Type>
 			<Description>Iron Cannons</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -13335,7 +13335,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_STEEL_CANNONS</Type>
 			<Description>Steel Cannons</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -13410,7 +13410,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_CRUDE_GRENADES</Type>
 			<Description>Crude Grenades</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -13483,7 +13483,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_CANNON_STANDARDISATION</Type>
 			<Description>Cannon Standardisation</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -13564,7 +13564,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_CERAMICS</Type>
 			<Description>Ceramics</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -13641,7 +13641,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_RUBBER</Type>
 			<Description>Rubber</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -13718,7 +13718,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_SILICON</Type>
 			<Description>Silicon</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -13795,7 +13795,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_FUEL</Type>
 			<Description>Fuel</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -13872,7 +13872,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_FLIGHT</Type>
 			<Description>Flight</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -13945,7 +13945,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_TRIPLANE_DESIGN</Type>
 			<Description>Triplane Design</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -14018,7 +14018,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_ALUMINIUM</Type>
 			<Description>Aluminium</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -14095,7 +14095,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_POWER_TOOLS</Type>
 			<Description>Power Tools</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -14174,7 +14174,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_APPLIANCES</Type>
 			<Description>Appliances</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -14251,7 +14251,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_FIGHTERS</Type>
 			<Description>Fighters</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -14330,7 +14330,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_HEAVY_FIGHTERS</Type>
 			<Description>Heavy Fighters</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -14403,7 +14403,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_HEAVY_TANK_DESIGN</Type>
 			<Description>Heavy Tank Design</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -14476,7 +14476,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_JET_PROPULSION</Type>
 			<Description>Jet Propulsion</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -14549,7 +14549,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_ROTARY_FLIGHT</Type>
 			<Description>Rotary Flight</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -14622,7 +14622,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_AERIAL_CAVALRY</Type>
 			<Description>Aerial Cavalry</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -14695,7 +14695,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_SAM'S</Type>
 			<Description>SAM's</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -14768,7 +14768,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_ADVANCED_JET_FIGHTER</Type>
 			<Description>Advanced Jet Fighter</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -14841,7 +14841,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_TILT_WING_TECHNOLOGY</Type>
 			<Description>Tilt Wing Technology</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -14914,7 +14914,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_CRUDE_MUSKETS</Type>
 			<Description>Crude Muskets</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -14990,7 +14990,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_LIGHT_HORSE_TACTICS</Type>
 			<Description>Light Horse Tactics</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -15063,7 +15063,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_JADE_CUTTING</Type>
 			<Description>Jade Cutting</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -15142,7 +15142,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_ELEPHANT_GUN</Type>
 			<Description>Elephant Gun</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -15221,7 +15221,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_LINE_INFANTRY_TACTICS</Type>
 			<Description>Line Infantry Tactics</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -15294,7 +15294,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_JADE_CARVING</Type>
 			<Description>Jade Carving</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -15375,7 +15375,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_IVORY_CARVING</Type>
 			<Description>Ivory Carving</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -15456,7 +15456,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_CAVALRY_TACTICS</Type>
 			<Description>Cavalry Tactics</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -15534,7 +15534,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_RIFLING</Type>
 			<Description>Rifling</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -15613,7 +15613,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_LIGHT_INFANTRY_TACTICS</Type>
 			<Description>Light Infantry Tactics</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -15687,7 +15687,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_TAILORED_CLOTHING</Type>
 			<Description>Tailored Clothing</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -15764,7 +15764,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_ELITE_CAVALRY</Type>
 			<Description>Elite Cavalry</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -15837,7 +15837,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_TINNED_FOOD</Type>
 			<Description>Tinned Food</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -15914,7 +15914,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_RIFLE_BATTALIONS</Type>
 			<Description>Rifle Battalions</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -15987,7 +15987,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_ROTARY_FIRE</Type>
 			<Description>Rotary Fire</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -16060,7 +16060,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_SMOKELESS_GUNPOWDER</Type>
 			<Description>Smokeless Gunpowder</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -16131,7 +16131,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_BREECH_LOADING_ARTILLERY</Type>
 			<Description>Breech Loading Artillery</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -16204,7 +16204,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_MAXIM_GUN</Type>
 			<Description>Maxim Gun</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -16277,7 +16277,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_HEAVY_ARTILLERY</Type>
 			<Description>Heavy Artillery</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -16350,7 +16350,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_THE_TANK</Type>
 			<Description>The Tank</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -16423,7 +16423,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_MACHINE_GUNS</Type>
 			<Description>Machine Guns</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -16502,7 +16502,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_INFANTRY_TACTICS</Type>
 			<Description>Infantry Tactics</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -16575,7 +16575,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_MOTORIZED_INFANTRY</Type>
 			<Description>Motorized Infantry</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -16648,7 +16648,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_ARMOUR_PLATING</Type>
 			<Description>Armour Plating</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -16727,7 +16727,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_ROCKETRY</Type>
 			<Description>Rocketry</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -16806,7 +16806,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_TANK_HUNTER_DESIGN</Type>
 			<Description>Tank Hunter Design</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -16879,7 +16879,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_ASSAULT_WEAPONS</Type>
 			<Description>Assault Weapons</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -16952,7 +16952,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_GUIDED_MISSILES</Type>
 			<Description>Guided Missiles</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -17029,7 +17029,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_ATGM'S</Type>
 			<Description>ATGM's</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -17102,7 +17102,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_CHOBHAM_ARMOUR</Type>
 			<Description>Chobham Armour</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -17181,7 +17181,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_FRONTIER_EXPLORATION</Type>
 			<Description>Frontier Exploration</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -17254,7 +17254,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_FRONTIER_COLONIES</Type>
 			<Description>Frontier Colonies</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -17327,7 +17327,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_SHIP_CANNONS</Type>
 			<Description>Ship Cannons</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -17405,7 +17405,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_GALLEON_DESIGN</Type>
 			<Description>Galleon Design</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -17478,7 +17478,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_COLONIAL_ENTERPRISE</Type>
 			<Description>Colonial Enterprise</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -17551,7 +17551,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_LETTERS_OF_MARQUE</Type>
 			<Description>Letters of Marque</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -17624,7 +17624,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_FRIGATE</Type>
 			<Description>Frigate</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -17704,7 +17704,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_COLONIAL_PEACE_KEEPING</Type>
 			<Description>Colonial Peace Keeping</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -17777,7 +17777,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_PRIVATE_COMPANIES</Type>
 			<Description>Private Companies</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -17850,7 +17850,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_IMPERIAL_NAVY</Type>
 			<Description>Imperial Navy</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -17923,7 +17923,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_SCREW_PROPELLER</Type>
 			<Description>Screw Propeller</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -17996,7 +17996,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_AIRSHIPS</Type>
 			<Description>Airships</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -18069,7 +18069,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_IRONCLADS</Type>
 			<Description>Ironclads</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -18142,7 +18142,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_NAVAL_DIESEL</Type>
 			<Description>Naval Diesel</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -18215,7 +18215,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_DREADNOUGHTS</Type>
 			<Description>Dreadnoughts</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -18288,7 +18288,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_BATTLE_SHIPS</Type>
 			<Description>Battle Ships</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -18361,7 +18361,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_CRUISER_CLASSIFICATION</Type>
 			<Description>Cruiser Classification</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -18434,7 +18434,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_ESCORT_SHIPS</Type>
 			<Description>Escort Ships</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -18507,7 +18507,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_MOBILE_ARTILLERY</Type>
 			<Description>Mobile Artillery</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -18580,7 +18580,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_NAVAL_TURRET_ADAPTATION</Type>
 			<Description>Naval Turret Adaptation</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -18653,7 +18653,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_MECHANIZED_INFANTRY</Type>
 			<Description>Mechanized Infantry</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -18726,7 +18726,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_AIRCRAFT_CARRIER</Type>
 			<Description>Aircraft Carrier</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -18799,7 +18799,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_CONTAINERISATION</Type>
 			<Description>Containerisation</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -18872,7 +18872,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_SUPER_CARRIER_DESIGN</Type>
 			<Description>Super Carrier Design</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -18945,7 +18945,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_GUIDED_MISSILE_CRUISERS</Type>
 			<Description>Guided Missile Cruisers</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -19018,7 +19018,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_SUPER_TANKER_DESIGN</Type>
 			<Description>Super Tanker Design</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
@@ -19091,7 +19091,7 @@
 			<IndustrializationVictory/>
 		</CivicInfo>
 		<CivicInfo>	
-			<CivicOptionType>CIVICOPTION_INVENTIONS</CivicOptionType>
+			<CivicOptionType>NONE</CivicOptionType>
 			<Type>MEDIEVAL_TECH_MODERN_PIRACY</Type>
 			<Description>Modern Piracy</Description>
 			<Civilopedia>TXT_KEY_NEED_DESCRIPTION</Civilopedia>
