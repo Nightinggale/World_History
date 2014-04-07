@@ -253,9 +253,7 @@ def_noun "Mine"  => "Mines";
 
 @miscunits = (@transportships,@warships,@miscships,@miscland);
 
-		#beast units TODO
-
-# @beastunits = ("Killbots","Progenitor AI","Arachnid","Scorpion","Amoeba","Enigma Virion");
+@beastunits = ("Bear Black","Bear Brown","Bear Polar","Cougar","Dog","Elephant","Hyena","Lion","Panther","Boar","Pig","Deer","Wolf");
 
 
 # TXT_KEY subroutine
