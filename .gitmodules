@@ -1,0 +1,3 @@
+[submodule "sourceDLL"]
+	path = sourceDLL
+	url = git://git.code.sf.net/p/colonizationmodcollection/sourceDLL
